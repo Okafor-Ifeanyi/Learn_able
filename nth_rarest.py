@@ -35,6 +35,6 @@ def nth_most_rate_signature(list_nums, n):
 
 # Calling and passing values to the function 
 list_nums = [5,4,5,4,5,4,4,5,3,3,3,2,2,1,5]
-nth_most_rate_signature(list_nums, "Today")
+nth_most_rate_signature(list_nums, 2)
 
 
